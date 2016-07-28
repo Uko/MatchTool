@@ -1,0 +1,3 @@
+*MatchTool
+beForMatchExpression
+	self editingMode: MchToolMatchExpressionMode new

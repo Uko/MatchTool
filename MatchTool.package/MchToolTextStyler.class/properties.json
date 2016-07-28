@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "YuriyTymchuk 7/28/2016 08:36",
+	"super" : "RubSHTextStylerST80",
+	"category" : "MatchTool-Styling",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rbParser"
+	],
+	"name" : "MchToolTextStyler",
+	"type" : "normal"
+}

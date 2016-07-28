@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MchToolMode",
+	"category" : "MatchTool-Styling",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MchToolMatchExpressionMode",
+	"type" : "normal"
+}

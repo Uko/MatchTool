@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TextModel",
+	"category" : "MatchTool-ExtraSpec",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"isForMatchHolder",
+		"isForMethodHolder"
+	],
+	"name" : "MatchTextModel",
+	"type" : "normal"
+}

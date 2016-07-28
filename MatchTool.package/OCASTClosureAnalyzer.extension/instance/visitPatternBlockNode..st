@@ -1,0 +1,3 @@
+*MatchTool
+visitPatternBlockNode: aRBPatternBlockNode
+	self visitBlockNode: aRBPatternBlockNode

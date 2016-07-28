@@ -8,8 +8,8 @@ performMatching
 	
 	matches := OrderedCollection new.
 	
-	testNode nodesDo: [ :node |
-		matchNode
+	testExpression astNode nodesDo: [ :node |
+		matchExpression astNode
 			match: node
 			onSuccess: [ :map |
 				matches add: node -> map ]

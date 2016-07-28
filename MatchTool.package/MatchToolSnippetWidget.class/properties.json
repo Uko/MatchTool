@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposableModel",
+	"category" : "MatchTool",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"titleLabel",
+		"methodCheckbox",
+		"codeArea",
+		"ast"
+	],
+	"name" : "MatchToolSnippetWidget",
+	"type" : "normal"
+}

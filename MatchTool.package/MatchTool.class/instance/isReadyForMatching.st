@@ -3,5 +3,5 @@ isReadyForMatching
 
 	^ (matchExpression hasUnacceptedEdits or: [ 
 		testExpression  hasUnacceptedEdits or: [ 
-		matchNode isNil or: [ 
-		testNode  isNil ] ] ]) not
+		matchExpression astNode isNil or: [ 
+		testExpression astNode isNil ] ] ]) not

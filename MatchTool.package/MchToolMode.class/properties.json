@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RubSmalltalkCodeMode",
+	"category" : "MatchTool-Styling",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MchToolMode",
+	"type" : "normal"
+}

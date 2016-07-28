@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MorphicTextAdapter",
+	"category" : "MatchTool-ExtraSpec",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MatchTextAdapter",
+	"type" : "normal"
+}
