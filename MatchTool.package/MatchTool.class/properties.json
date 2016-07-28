@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "YuriyTymchuk 7/24/2016 10:38",
+	"super" : "ComposableModel",
+	"category" : "MatchTool",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"matchExpression",
+		"testExpression",
+		"resultList",
+		"matchMap",
+		"executeButton",
+		"matchNode",
+		"testNode"
+	],
+	"name" : "MatchTool",
+	"type" : "normal"
+}
