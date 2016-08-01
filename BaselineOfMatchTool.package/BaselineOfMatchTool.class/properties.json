@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "YuriyTymchuk 8/1/2016 18:23",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfMatchTool",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfMatchTool",
+	"type" : "normal"
+}
