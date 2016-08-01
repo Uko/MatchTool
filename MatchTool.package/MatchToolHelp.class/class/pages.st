@@ -9,4 +9,5 @@ pages
 		listPatterns
 		blockPatterns
 		namingImportant
-		whatNext)
+		whatNext
+		issues)
