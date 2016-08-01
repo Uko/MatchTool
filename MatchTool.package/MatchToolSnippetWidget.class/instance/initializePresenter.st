@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initializePresenter
 	super initializePresenter.
 	titleHolder whenChangedDo: [ :string | titleLabel label: string ].

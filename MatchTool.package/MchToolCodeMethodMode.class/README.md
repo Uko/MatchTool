@@ -1,0 +1,1 @@
+style code as Smalltalk method

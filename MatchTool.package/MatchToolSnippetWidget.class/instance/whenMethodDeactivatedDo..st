@@ -1,4 +1,4 @@
-as yet unclassified
+checkbox api
 whenMethodDeactivatedDo: aBlock
 
 	methodCheckbox whenDeactivatedDo: aBlock

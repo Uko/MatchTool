@@ -1,3 +1,3 @@
 *MatchTool
-beForSmaltalkExpression
+beForSmalltalkExpression
 	self editingMode: MchToolCodeExpressionMode new

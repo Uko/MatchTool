@@ -1,4 +1,4 @@
-as yet unclassified
+parsing
 parseFaultyMethod: aString 
 	^ [ self parser parseFaultyMethod: aString ]
 		on: MessageNotUnderstood

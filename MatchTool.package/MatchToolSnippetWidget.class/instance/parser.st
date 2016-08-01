@@ -1,4 +1,4 @@
-as yet unclassified
+parsing
 parser
 
 	^ self isForPatternCode

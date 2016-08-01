@@ -1,5 +1,5 @@
 *MatchTool
-beForSmaltalkExpression
+beForSmalltalkExpression
 	self styler: self matchToolStyler.
 	self styler
 		beForSmalltalkCode;

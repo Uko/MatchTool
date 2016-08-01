@@ -8,6 +8,8 @@ performMatching
 	
 	matches := OrderedCollection new.
 	
+	testExpression astNode doSemanticAnalysis.
+	
 	testExpression astNode nodesDo: [ :node |
 		matchExpression astNode
 			match: node

@@ -1,0 +1,1 @@
+Extended TextModel to allow special styling including the one for pattern nodes

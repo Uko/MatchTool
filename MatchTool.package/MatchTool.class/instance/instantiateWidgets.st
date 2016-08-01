@@ -4,4 +4,5 @@ instantiateWidgets
 	testExpression := self instantiate: MatchToolSnippetWidget.
 	resultList := self newList.
 	executeButton := self newButton.
+	helpButton := self newButton.
 	matchMap := self newMultiColumnList

@@ -1,4 +1,4 @@
-as yet unclassified
+initialize-release
 updateTextAreaWhenPlugged
 	self withShoutStyler.
 	self textArea shoutStyler beForMatchTool.

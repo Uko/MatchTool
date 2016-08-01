@@ -1,4 +1,4 @@
-as yet unclassified
+setup
 isForMatch: aBoolean
 
 	isForMatchHolder value: aBoolean

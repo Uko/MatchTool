@@ -1,3 +1,3 @@
 *MatchTool
-beForSmaltalkMethod
+beForSmalltalkMethod
 	self editingMode: MchToolCodeMethodMode new

@@ -1,0 +1,3 @@
+accessing
+bookDescription
+	^ 'MatchTool is a simple UI for experimenting with the matching functionality of pattern code'

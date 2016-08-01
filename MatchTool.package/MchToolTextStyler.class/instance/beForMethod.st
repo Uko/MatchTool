@@ -1,4 +1,4 @@
-as yet unclassified
+setup
 beForMethod
 
 	workspace := nil

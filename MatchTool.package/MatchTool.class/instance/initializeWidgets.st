@@ -12,5 +12,9 @@ initializeWidgets
 		label: 'Match';
 		shortcut: Character cr meta.
 		
+	helpButton
+		icon: (#questionIcon asIcon scaledToSize: 22 @ 22);
+		shortcut: $h meta.
+		
 	self initializeLists.
 	self initializeFocusOrder

@@ -8,4 +8,4 @@ initializeLists
 		allowToSelect: false;
 		displayBlock: [ :assoc | 
 			{assoc key formattedCode.
-			assoc value formattedCode} ]
+			 assoc value formattedCode} ]

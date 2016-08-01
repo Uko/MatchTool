@@ -1,4 +1,4 @@
-as yet unclassified
+event handling
 accept: text notifying: notifier
 	[ ast := self parse: text ]
 		on: SyntaxErrorNotification

@@ -1,4 +1,4 @@
-as yet unclassified
+api
 windowIcon
 
 	^ Smalltalk ui icons jigsawIcon

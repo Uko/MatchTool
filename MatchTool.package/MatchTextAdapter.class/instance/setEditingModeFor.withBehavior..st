@@ -1,4 +1,4 @@
-as yet unclassified
+private
 setEditingModeFor: textArea withBehavior: behavior
 
 
@@ -9,5 +9,5 @@ setEditingModeFor: textArea withBehavior: behavior
 				ifFalse: [ textArea beForMatchExpression ] ]
 		ifFalse: [ 
 			model isForMethod
-				ifTrue:  [ textArea beForSmaltalkMethod ]
-				ifFalse: [ textArea beForSmaltalkExpression ] ]
+				ifTrue:  [ textArea beForSmalltalkMethod ]
+				ifFalse: [ textArea beForSmalltalkExpression ] ]

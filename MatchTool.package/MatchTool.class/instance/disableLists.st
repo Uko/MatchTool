@@ -1,4 +1,4 @@
 event handling
-textChanged
+disableLists
 	resultList disable.
 	matchMap disable.

@@ -11,8 +11,7 @@
 		"resultList",
 		"matchMap",
 		"executeButton",
-		"matchNode",
-		"testNode"
+		"helpButton"
 	],
 	"name" : "MatchTool",
 	"type" : "normal"

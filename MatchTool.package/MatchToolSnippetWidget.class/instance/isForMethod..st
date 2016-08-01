@@ -1,4 +1,4 @@
-as yet unclassified
+setup
 isForMethod: aBool
 
 	methodCheckbox state: aBool

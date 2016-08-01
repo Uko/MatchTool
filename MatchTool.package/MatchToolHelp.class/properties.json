@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "YuriyTymchuk 8/1/2016 15:24",
+	"super" : "CustomHelp",
+	"category" : "MatchTool-Help",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MatchToolHelp",
+	"type" : "normal"
+}

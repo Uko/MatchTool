@@ -1,4 +1,4 @@
-as yet unclassified
+setup
 isForMethod
 
 	^ isForMethodHolder value

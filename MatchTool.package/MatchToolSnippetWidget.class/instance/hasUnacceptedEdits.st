@@ -1,3 +1,3 @@
-as yet unclassified
+code area api
 hasUnacceptedEdits
 	^ codeArea hasUnacceptedEdits

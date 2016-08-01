@@ -1,4 +1,4 @@
-as yet unclassified
+setup
 isForPatternCode: aBoolean
 
 	codeArea isForMatch: aBoolean
