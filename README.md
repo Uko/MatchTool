@@ -1,4 +1,4 @@
-MatchTool
+MatchTool [![DOI](https://zenodo.org/badge/64682277.svg)](https://zenodo.org/badge/latestdoi/64682277)
 =========
 
 MatchTool is a simple UI for experimenting with the matching functionality of pattern code.
