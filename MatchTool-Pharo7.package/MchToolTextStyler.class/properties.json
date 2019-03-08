@@ -1,7 +1,7 @@
 {
-	"commentStamp" : "YuriyTymchuk 7/28/2016 08:36",
-	"super" : "RubSHTextStylerST80",
-	"category" : "MatchTool-Styling",
+	"commentStamp" : "",
+	"super" : "SHRBTextStyler",
+	"category" : "MatchTool-Pharo7",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

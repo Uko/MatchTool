@@ -3,6 +3,4 @@ jigsawIcon
 	^ icons
 		at: #jigsawIcon
 		ifAbsentPut: [
-			Form fromBinaryStream:
-				(Base64MimeConverter mimeDecodeToBytes:
-					self jigsawIconContents readStream) ].
+			Form fromBinaryStream: self jigsawIconContents base64Decoded readStream ].
