@@ -1,1 +1,0 @@
-I'm a styler for matchTool. I allow to set my parser and I style undefined variables as temps, because one may just copy a part of code and as we are not going to run it, it is fine to have them in non-red color
