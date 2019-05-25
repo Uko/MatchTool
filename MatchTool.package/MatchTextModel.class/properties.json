@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "YuriyTymchuk 7/28/2016 23:41",
-	"super" : "TextModel",
+	"super" : "TextPresenter",
 	"category" : "MatchTool-ExtraSpec",
 	"classinstvars" : [ ],
 	"pools" : [ ],

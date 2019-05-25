@@ -1,20 +1,17 @@
 initialization
 initializeWidgets
 	self instantiateWidgets.
-	
 	matchExpression
 		title: 'Pattern code';
-		beForPatternCode.		
+		beForPatternCode.
 	testExpression title: 'Test code'.
-	
 	executeButton
-		icon: #smallDoIt asIcon;
+		icon:
+			(self iconNamed: #smallDoIt);
 		label: 'Match';
 		shortcut: Character cr meta.
-		
 	helpButton
-		icon: (#questionIcon asIcon scaledToSize: 22 @ 22);
+		icon: ((self iconNamed: #questionIcon) scaledToSize: 22 @ 22);
 		shortcut: $h meta.
-		
 	self initializeLists.
 	self initializeFocusOrder

@@ -3,7 +3,7 @@ listPatterns
 
 ^ HelpTopic 
 		title: '(`@) List Pattern Nodes'
-		contents: 'To have a complete flexibility there is a possibility to use at sign (@) before the name of a pattern not which turns the node into a “list pattern node”. These node can match more than a single entity. For example
+		contents: 'To have complete flexibility there is the possibility to use the at sign (@) before the name of a pattern node which turns the node into a “list pattern node”. These nodes can match more than a single entity. For example
 
 	`@expr isPatternVariable
 
@@ -30,7 +30,7 @@ Similarly you can match a list of temporary variables:
 	`@method: `@args
 		| `temp `@temps |
 
-This will match any method with one or more temporary variables and without any statement. The first temporary variable will be mapped to `temp the rest ones — to `@temps.
+This will match any method with one or more temporary variables and without any statement. The first temporary variable will be mapped to `temp the remaining ones — to `@temps.
 
 
 Finally you can have a list of statements:
@@ -38,10 +38,10 @@ Finally you can have a list of statements:
 	[ `.@Statements.
 		`var := `@object ]
 
-this expression will match a block which has an assignment of an expression to a variable as a last statement. It can be preceded by any number of other statement (including 0).
+this expression will match a block which has an assignment of an expression to a variable as its last statement. It can be preceded by any number of other statement (including 0).
 
 
 The list patterns does not make any sense for literal nodes i.e. `#@literal.
 
 
-P.S. In the end it does not matter whether you will write `.@Statement or `@.Statement. But I like to put @ closer to the variable name as the character is larger itself and the name looks nicer this way.'
+P.S. In the end it does not matter whether you write `.@Statement or `@.Statement. But I like to put @ closer to the variable name as the character is larger itself and the name looks nicer this way.'
