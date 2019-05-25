@@ -1,4 +1,4 @@
 api
-extent
+initialExtent
 	
 	^ 800 @ 400
