@@ -1,9 +1,5 @@
 initialize-release
-updateTextAreaWhenPlugged
-	super updateTextAreaWhenPlugged.
-
+updateMode
 	self textArea shoutStyler styler
 		beForSmalltalkCode;
 		beForMethod.
-		
-	self restyleTextArea.

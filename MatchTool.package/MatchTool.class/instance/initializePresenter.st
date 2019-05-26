@@ -1,6 +1,7 @@
 initialization
 initializePresenter
 	matchExpression
+		beForPatternCode;
 		whenCodeEdited: [ self disableLists ];
 		whenMethodStateChangedDo: [ self disableLists ];
 		whenMethodActivatedDo: [ self matchMethodActivated ].
