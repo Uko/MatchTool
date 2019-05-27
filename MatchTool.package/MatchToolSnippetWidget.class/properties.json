@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "YuriyTymchuk 7/28/2016 23:11",
-	"super" : "ComposableModel",
+	"super" : "ComposablePresenter",
 	"category" : "MatchTool",
 	"classinstvars" : [ ],
 	"pools" : [ ],

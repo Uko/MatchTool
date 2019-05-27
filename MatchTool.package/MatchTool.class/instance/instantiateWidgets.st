@@ -5,4 +5,4 @@ instantiateWidgets
 	resultList := self newList.
 	executeButton := self newButton.
 	helpButton := self newButton.
-	matchMap := self newMultiColumnList
+	matchMap := self newTable

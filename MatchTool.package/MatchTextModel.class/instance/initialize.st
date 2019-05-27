@@ -12,5 +12,4 @@ initialize
 		self changed: #isForMethod: with: { bool } ].
 	
 	self
-		beForCode;
 		aboutToStyle: true.

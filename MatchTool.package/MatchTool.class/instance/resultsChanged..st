@@ -1,7 +1,7 @@
 initialization
 resultsChanged: newItems
 	matchMap items: #().
-	resultList resetSelection.
+	resultList unselectAll.
 	^ newItems
 		ifEmpty: [ resultList borderColor: Color red ]
 		ifNotEmpty: [ resultList borderColor: Color green ]

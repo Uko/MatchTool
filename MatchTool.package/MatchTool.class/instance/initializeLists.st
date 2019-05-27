@@ -5,7 +5,5 @@ initializeLists
 		displayBlock: [ :assoc | assoc key formattedCode ].
 	matchMap
 		disable;
-		allowToSelect: false;
-		displayBlock: [ :assoc | 
-			{assoc key formattedCode.
-			 assoc value formattedCode} ]
+		addColumn: (StringTableColumn evaluated: [:assoc | assoc key formattedCode]);
+		addColumn: (StringTableColumn evaluated: [:assoc | assoc value formattedCode]).
